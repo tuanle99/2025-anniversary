@@ -24,7 +24,7 @@ function App() {
             <img class={``} alt="" src={backgroundImg1} />
           </div>
           <div
-            class="col-span-3 flex justify-center place-items-center md:h-full h-96"
+            class="col-span-2 flex justify-center place-items-center md:h-full h-96 overflow-y-hidden"
             style={{ backgroundColor: primaryBackgroundColor }}
           >
             {/* <div className="animate-fade-down-infinite text-2xl"> */}

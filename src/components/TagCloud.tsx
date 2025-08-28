@@ -23,7 +23,7 @@ export default function TagCloudComponent() {
       ];
 
       var options: TagCloudOptions = {
-        radius: 250,
+        radius: 230,
 
         // animation speed
         // slow, normal, fast
